@@ -31,6 +31,7 @@ Authenticate users using JWTs, connect a database, create models and schemas, an
 - Node.js
 - Express.js
 - MongoDB
+- Mongoose
 - ArcJet
 - NodeMailer
 
